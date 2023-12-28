@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WEBRtc",
+"productVersion": "0.1",
+"dataUrl": "renderWebgl.data.unityweb",
+"wasmCodeUrl": "renderWebgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "renderWebgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
